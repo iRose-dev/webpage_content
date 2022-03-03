@@ -1,0 +1,3 @@
+## WEBPAGE CONTENT
+
+Repository containing all webpage related content data such as translations, images, links ...
