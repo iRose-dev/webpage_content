@@ -16,5 +16,18 @@
 	"products_msp_4_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/log_proc_backend.svg",
 	"products_msp_industries_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/enable.jpg",
 	"products_msp_insight_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/msp_insight.jpg",
-	"products_img_areas_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/podrocja.jpg"
+	"products_img_areas_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/podrocja.jpg",
+
+	"products_tms_intro_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/products_tms_intro.png",
+	"products_tms_1_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/log_proc_create.svg",
+	"products_tms_2_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/log_proc_docu.svg",
+	"products_tms_3_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/log_proc_geo.svg",
+	"products_tms_4_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/log_proc_backend.svg",
+	"products_tms_industries_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/logistics_inf.jpg",
+	"products_tms_process_1_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_1.svg",
+	"products_tms_process_2_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_2.svg",
+	"products_tms_process_3_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_3.svg",
+	"products_tms_process_4_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_4.svg",
+	"products_tms_process_5_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_5.svg",
+	"products_img_good_practice_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/tms_good_practice.png"
 }
