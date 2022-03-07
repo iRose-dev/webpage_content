@@ -1,5 +1,7 @@
 {
-	"title_image_link": "https://git.srv.i-rose.si/i-Rose/webpage_content/raw/branch/master/images/shutterstock_665225909.jpg",
 	"index_intro_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/msp_ikona_page.svg",
-	"index_areas_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/podrocja.jpg"
+	"index_areas_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/podrocja.jpg",
+
+	"intro_products_msp_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/epod.svg",
+	"intro_products_msptms_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/truck.svg"
 }
