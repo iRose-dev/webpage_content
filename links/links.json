@@ -32,15 +32,15 @@
 	"products_tms_process_5_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_5.svg",
 	"products_img_good_practice_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/tms_good_practice.png",
 
-	"areas.service.intro.img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/servis_intro.jpg",
+	"areas_service_intro_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/servis_intro.jpg",
 
-	"areas.construction.intro.img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/construction_intro.jpg",
+	"areas_construction_intro_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/construction_intro.jpg",
 
-	"areas.logistics.intro.img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delivery_intro.png",
+	"areas_logistics_intro_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delivery_intro.png",
 
-	"areas.sales.intro.img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/sales_intro.png",
+	"areas_sales_intro_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/sales_intro.png",
 
-	"areas.montage.intro.img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/montage_intro.jpg",
+	"areas_montage_intro_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/montage_intro.jpg",
 
-	"areas.accsales.intro.img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/accsales_intro.png"
+	"areas_accsales_intro_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/accsales_intro.png"
 }
