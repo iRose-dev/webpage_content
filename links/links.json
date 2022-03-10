@@ -91,5 +91,7 @@
 	"company_whois_header_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/company_header.jpg",
 	"company_whois_challenges_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/challenges.jpg",
 
-	"company_news_header_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/news_header.jpg"
+	"company_news_header_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/news_header.jpg",
+
+	"company_employ_header_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/employ_header.jpg"
 }
