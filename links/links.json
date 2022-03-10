@@ -65,6 +65,11 @@
 	"sales_banner_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/sales_banner.png",
 
 	"areas_montage_intro_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/montage_intro.jpg",
+	"areas_montage_process_1_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_1.svg",
+	"areas_montage_process_2_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_2.svg",
+	"areas_montage_process_3_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_3.svg",
+	"areas_montage_process_4_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_montaža_4.svg",
+	"areas_montage_process_5_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_5.svg",
 
 	"areas_accsales_intro_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/accsales_intro.png"
 }
