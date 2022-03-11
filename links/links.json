@@ -47,6 +47,7 @@
 	"areas_service_process_4_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_4.svg",
 	"areas_service_process_5_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_5.svg",
 	"service_banner_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/service_banner.png",
+	"area_service_intro_link": "#",
 
 	"areas_construction_header_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/construction_header.jpg",
 	"areas_construction_intro_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/construction_intro.jpg",
@@ -56,6 +57,7 @@
 	"areas_construction_process_4_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_4.svg",
 	"areas_construction_process_5_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_5.svg",
 	"construction_banner_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/construction_banner.png",
+	"area_construction_intro_link": "#",
 
 	"areas_logistics_header_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delivery_header.jpg",
 	"areas_logistics_intro_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delivery_intro.png",
@@ -65,6 +67,7 @@
 	"areas_logistics_process_4_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_4.svg",
 	"areas_logistics_process_5_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_5.svg",
 	"logistics_banner_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/logistics_banner.png",
+	"area_logistics_intro_link": "#",
 
 	"areas_sales_header_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/sales_header.jpg",
 	"areas_sales_intro_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/sales_intro.png",
@@ -74,6 +77,7 @@
 	"areas_sales_process_4_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_4.svg",
 	"areas_sales_process_5_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_prodaja_5.svg",
 	"sales_banner_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/sales_banner.png",
+	"area_sales_intro_link": "#",
 
 	"areas_montage_header_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/montage_header.jpg",
 	"areas_montage_intro_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/montage_intro.jpg",
@@ -83,6 +87,7 @@
 	"areas_montage_process_4_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_montaža_4.svg",
 	"areas_montage_process_5_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_5.svg",
 	"montage_banner_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/montage_banner.png",
+	"area_sales_intro_link": "#",
 
 	"areas_accsales_header_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/accsales_header.jpg",
 	"areas_accsales_intro_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/accsales_intro.png",
@@ -92,6 +97,7 @@
 	"areas_accsales_process_4_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_4.svg",
 	"areas_accsales_process_5_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/delovni_proces_5.svg",
 	"accsales_banner_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/accsales_banner.png",
+	"area_accsales_intro_link": "#",
 
 	"company_whois_header_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/company_header.jpg",
 	"company_whois_challenges_img": "https://raw.githubusercontent.com/drad187/webpage_content/main/images/challenges.jpg",
