@@ -362,5 +362,9 @@
     "company-employ-header-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et venenatis est, et tristique lorem. Pellentesque vulputate felis ligula, nec feugiat dolor elementum vel.",
 
     "publication_preview_author": "Avtor: ",
-    "publication_preview_link": "Povezava"
+    "publication_preview_link": "Povezava",
+    
+    "cookies-modal-title":"Obvestilo o piškotkih",
+    "cookies-modal-msg":"Ta stran uporablja piškotke",
+    "cookies-modal-confirm":"OK"
 }
