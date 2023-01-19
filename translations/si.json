@@ -59,6 +59,8 @@
     "index-info-message-placeholder": "Vaše sporočilo",
     "index-info-email-placeholder": "Vaš email",
     "index-info-button": "Pošlji",
+    "index-info-success": "Sporočilo poslano.",
+    "index-info-error": "Prišlo je do napake. Prosimo, poskusite kasneje.",
 
     "goodpractice-title": "Primer dobre prakse",
     "goodpractice-challenge-title": "S kakšnimi izzivi so se srečevali v referenčnem podjetju?",
