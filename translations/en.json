@@ -59,6 +59,8 @@
     "index-info-message-placeholder": "Your message",
     "index-info-email-placeholder": "Your email",
     "index-info-button": "Send",
+    "index-info-success": "Your message has been sent.",
+    "index-info-error": "Sorry, it seems that mail server is not responding. Please try again later!",
 
 
     "goodpractice-title": "[en]Primer dobre prakse",
