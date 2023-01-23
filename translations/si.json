@@ -61,6 +61,10 @@
     "index-info-button": "Pošlji",
     "index-info-success": "Sporočilo poslano.",
     "index-info-error": "Prišlo je do napake. Prosimo, poskusite kasneje.",
+    "index-info-option-label": "Izberite področje",
+    "index-info-option-one": "MSP / Terensko delo",
+    "index-info-option-two": "MSP / Logistika",
+    "index-info-option-three": "Razvoj po naročilu",
 
     "goodpractice-title": "Primer dobre prakse",
     "goodpractice-challenge-title": "S kakšnimi izzivi so se srečevali v referenčnem podjetju?",
