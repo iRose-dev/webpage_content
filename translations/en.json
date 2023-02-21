@@ -38,6 +38,8 @@
     "index-news-subscribe-email-validation-error": "Please enter a valid email address",
     "index-news-subscribe-success": "Successfully subscribed to our newsletter",
     "index-news-subscribe-error": "Oops. Something went wrong. Please try again later",
+    "index-news-subscribe-modal-title-success": "Successfully subscribed",
+    "index-news-subscribe-modal-title-error": "Error subscribing",
     "index-news-subscribe-modal-confirm": "OK",
     "index-products-title": "Products",
     "index-products-msp-title": "MSP",
