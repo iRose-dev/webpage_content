@@ -38,6 +38,8 @@
     "index-news-subscribe-email-validation-error": "Prosim, vnesite veljaven email naslov",
     "index-news-subscribe-success": "Uspešno ste se prijavili na novice",
     "index-news-subscribe-error": "Ops. Nekaj se je sfižilo. Prosimo, poskusite ponovno kasneje",
+    "index-news-subscribe-modal-title-success": "Uspešno prijavljeni",
+    "index-news-subscribe-modal-title-error": "Sistemska napaka",
     "index-news-subscribe-modal-confirm": "OK",
     "index-products-title": "Produkti",
     "index-products-msp-title": "MSP",
