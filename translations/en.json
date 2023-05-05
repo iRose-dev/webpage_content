@@ -193,6 +193,18 @@
     "product-msplog-goodpractice-gain-item9": "[en]Optimalna koordinacija in delovanje zaledne pisarne",
     "product-msplog-goodpractice-gain-item10": "[en]Poročanje",
 
+    "product-tmsopt-info-title": "[en]O MSP TMS Opt",
+    "product-tmsopt-info-text": "[en]MSP TMS Optimizacija obhodnih poti je strojni proces določanja najoptimalnejših kombinacij poti glede na izbrani kriterij določanja. Uporabnik lahko izbira med kriteriji, kot na primer stroškovna učinkovitost, čas, primernost (usposobljenost, opremljenost) ali kombinacijo kriterijev. Izračun optimalne poti med tisočerimi ali desettisočerimi obhodnimi točkami v kombinaciji z navedenimi kriteriji daleč presegajo zmožnosti klasičnega načrtovanja. ",
+    "product-tmsopt-info-list-text": "[en]Programska oprema MSP TMS rešuje celoten nabor poslovnih izzivov, v segmentu Optimizacija pa se posveča algoritmom iskanja optimalnih optimalnih distribucijskih poti glede na množico parametrov, ki lahko spremljajo posamezno dostavo:",
+    "product-tmsopt-list-item1": "[en]specifična oprema dostavnega vozila,",
+    "product-tmsopt-list-item2": "[en]ADR prevoz,",
+    "product-tmsopt-list-item3": "[en]časovna okna dostave,",
+    "product-tmsopt-list-item4": "[en]posebne želje prejemnika,",
+    "product-tmsopt-list-item5": "[en]spremembe dostave v zadnjem trenutku,",
+    "product-tmsopt-list-item6": "[en]posebne opombe po dostavnem mestu.",
+    "product-tmsopt-info-text-second": "[en]Optimizacija je glede na kriterije izvedena v nekaj minutah (čas je odvisen od števila vozil in dostavnih mest). Pomembna prednost naše rešitve je ta, da se optimizacijski modul uči iz podatkov o načrtovanih in izvedenih poteh in je iz dneva v dan bolj učinkovit.",
+
+
     "areas-process-title": "[en]Delovni proces z MSP",
 
     "areas-service-header-title": "Service and maintenance",
