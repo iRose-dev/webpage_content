@@ -193,6 +193,8 @@
     "product-msplog-goodpractice-gain-item9": "[en]Optimalna koordinacija in delovanje zaledne pisarne",
     "product-msplog-goodpractice-gain-item10": "[en]Poročanje",
 
+    "product-tmsopt-header-title": "MSP TMS Opt",
+    "product-msplog-header-text": "",
     "product-tmsopt-info-title": "[en]O MSP TMS Opt",
     "product-tmsopt-info-text": "[en]MSP TMS Optimizacija obhodnih poti je strojni proces določanja najoptimalnejših kombinacij poti glede na izbrani kriterij določanja. Uporabnik lahko izbira med kriteriji, kot na primer stroškovna učinkovitost, čas, primernost (usposobljenost, opremljenost) ali kombinacijo kriterijev. Izračun optimalne poti med tisočerimi ali desettisočerimi obhodnimi točkami v kombinaciji z navedenimi kriteriji daleč presegajo zmožnosti klasičnega načrtovanja. ",
     "product-tmsopt-info-list-text": "[en]Programska oprema MSP TMS rešuje celoten nabor poslovnih izzivov, v segmentu Optimizacija pa se posveča algoritmom iskanja optimalnih optimalnih distribucijskih poti glede na množico parametrov, ki lahko spremljajo posamezno dostavo:",
