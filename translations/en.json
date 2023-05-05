@@ -217,7 +217,16 @@
     "product-tmsopt-text-one": "[en]MSP FDM Mobile je podporna mobilna aplikacija optimizacijskemu modulu, ki nudi optimalno podporo voznikom na terenu. ",
     "product-tmsopt-text-two": "[en]FDM Mobile omogoča prenos optimiziranih poti direktno na naprave voznikov. Voznikom nudi pomoč na terenu v obliki navigacije ter možnosti skeniranja paketov. Prav tako je omogočen zajem podpisa stranke ter fotografij dostavljenih paketov.",
     "product-tmsopt-text-three": "[en]Zajeti podatki se prenesejo v zaledni sistem MSP FDM, kjer se lahko poročila izpišejo, vodi se zgodovina dostavnih procesov in še mnogo več.",
-
+    "product-tmsopt-enable-title": "[en]Prednosti uporabe MSP Opt",
+    "product-tmsopt-enable-item1": "[en]znižanje stroškov dostave",
+    "product-tmsopt-enable-item2": "[en]optimalna izkoriščenost vozil",
+    "product-tmsopt-enable-item3": "[en]znižanje števila prevoženih kilometrov",
+    "product-tmsopt-enable-item4": "[en]hitrejše planiranje poti",
+    "product-tmsopt-enable-item5": "[en]učinkovitejše delo zaposlenih",
+    "product-tmsopt-enable-item6": "[en]strojno načrtovanje poti, ki preseže meje klasičnega",
+    "product-tmsopt-enable-item7": "[en]analize učinkovitosti dostav po različnih parametrih",
+    "product-tmsopt-enable-item8": "[en]analize stroškov po različnih parametrih",
+    "product-tmsopt-enable-item9": "[en]aplikacija se samodejno uči glede na že izvedene poti, zato so rezultati iz dneva v dan boljši",
 
     "areas-process-title": "[en]Delovni proces z MSP",
 
