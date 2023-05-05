@@ -212,6 +212,11 @@
     "product-tmsopt-support-analyze-text": "Avtomatske analize učinkovitosti dostav ter analize stroškov po različnih parametrih.",
     "product-tmsopt-support-predict-title": "Predvidevanja",
     "product-tmsopt-support-predict-text": "Modul MSP Optimizacija se uči iz podatkov o načrtovanih in izvedenih poteh, zato vključuje avtomatsko upoštevanje dostavnih časov ter zastojev na cesti.",
+    "product-tmsopt-title": "MSP FDM MOBILE",
+    "product-tmsopt-text-one": "MSP FDM Mobile je podporna mobilna aplikacija optimizacijskemu modulu, ki nudi optimalno podporo voznikom na terenu. ",
+    "product-tmsopt-text-two": "FDM Mobile omogoča prenos optimiziranih poti direktno na naprave voznikov. Voznikom nudi pomoč na terenu v obliki navigacije ter možnosti skeniranja paketov. Prav tako je omogočen zajem podpisa stranke ter fotografij dostavljenih paketov.",
+    "product-tmsopt-text-three": "Zajeti podatki se prenesejo v zaledni sistem MSP FDM, kjer se lahko poročila izpišejo, vodi se zgodovina dostavnih procesov in še mnogo več.",
+
 
     "areas-process-title": "Delovni proces z MSP",
 
