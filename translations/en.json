@@ -203,7 +203,16 @@
     "product-tmsopt-list-item5": "[en]spremembe dostave v zadnjem trenutku,",
     "product-tmsopt-list-item6": "[en]posebne opombe po dostavnem mestu.",
     "product-tmsopt-info-text-second": "[en]Optimizacija je glede na kriterije izvedena v nekaj minutah (čas je odvisen od števila vozil in dostavnih mest). Pomembna prednost naše rešitve je ta, da se optimizacijski modul uči iz podatkov o načrtovanih in izvedenih poteh in je iz dneva v dan bolj učinkovit.",
-
+    "product-tmsopt-support-title": "[en]Presezite zmožnosti klasičnega načrtovanja",
+    "product-tmsopt-support-subtitle": "[en]Prihranite 90% časa potrebnega za načrtovanje dostavnih poti in 30 % stroškov",
+    "product-tmsopt-support-savings-title": "[en]Prihranki",
+    "product-tmsopt-support-savings-text": "[en]Z uvedbo optimizacijskega okolja se stroški obhodnih poti zmanjšajo za do 30%, investicija pa se povrne v manj kot enem letu.",
+    "product-tmsopt-support-yield-title": "[en]Optimalni izkoristek vozil",
+    "product-tmsopt-support-yield-text": "[en]Optimizacija obhodnih poti zagotavlja optimalno zasedenost vozila glede na kapacitete posamezne vrste vozila.",
+    "product-tmsopt-support-analyze-title": "[en]Analize",
+    "product-tmsopt-support-analyze-text": "[en]Avtomatske analize učinkovitosti dostav ter analize stroškov po različnih parametrih.",
+    "product-tmsopt-support-predict-title": "[en]Predvidevanja",
+    "product-tmsopt-support-predict-text": "[en]Modul MSP Optimizacija se uči iz podatkov o načrtovanih in izvedenih poteh, zato vključuje avtomatsko upoštevanje dostavnih časov ter zastojev na cesti.",
 
     "areas-process-title": "[en]Delovni proces z MSP",
 
