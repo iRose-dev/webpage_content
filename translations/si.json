@@ -194,8 +194,8 @@
     "product-msplog-goodpractice-gain-item10": "Poročanje",
 
     "product-tmsopt-header-title": "MSP Opt",
+    "product-tmsopt-header-text":"MSP Optimizacija obhodnih poti je strojni proces določanja najoptimalnejših kombinacij poti glede na izbrani kriterij določanja. Uporabnik lahko izbira med kriteriji, kot na primer stroškovna učinkovitost, čas, primernost (usposobljenost, opremljenost) ali kombinacijo kriterijev. Izračun optimalne poti med tisočerimi ali desettisočerimi obhodnimi točkami v kombinaciji z navedenimi kriteriji daleč presegajo zmožnosti klasičnega načrtovanja.",
     "product-tmsopt-info-title": "O MSP Opt",
-    "product-tmsopt-info-text": "MSP Optimizacija obhodnih poti je strojni proces določanja najoptimalnejših kombinacij poti glede na izbrani kriterij določanja. Uporabnik lahko izbira med kriteriji, kot na primer stroškovna učinkovitost, čas, primernost (usposobljenost, opremljenost) ali kombinacijo kriterijev. Izračun optimalne poti med tisočerimi ali desettisočerimi obhodnimi točkami v kombinaciji z navedenimi kriteriji daleč presegajo zmožnosti klasičnega načrtovanja. ",
     "product-tmsopt-info-list-text": "Programska oprema MSP TMS rešuje celoten nabor poslovnih izzivov, v segmentu Optimizacija pa se posveča algoritmom iskanja optimalnih optimalnih distribucijskih poti glede na množico parametrov, ki lahko spremljajo posamezno dostavo:",
     "product-tmsopt-list-item1": "specifična oprema dostavnega vozila,",
     "product-tmsopt-list-item2": "ADR prevoz,",
