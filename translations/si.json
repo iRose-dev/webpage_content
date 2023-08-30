@@ -491,7 +491,10 @@
     "company-news-header-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et venenatis est, et tristique lorem. Pellentesque vulputate felis ligula, nec feugiat dolor elementum vel.",
     "company-employ-header-title": "Zaposlitev",
     "company-employ-header-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et venenatis est, et tristique lorem. Pellentesque vulputate felis ligula, nec feugiat dolor elementum vel.",
-
+    "company-blog-header-title":"Blog",
+    "company-blog-header-text":"",
+    "company-media-header-title":"Mediji o i-Rose",
+    "company-media-header-text":"",
     "publication_preview_author": "Avtor: ",
     "publication_preview_link": "Povezava",
 
