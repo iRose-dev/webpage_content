@@ -201,9 +201,8 @@
 	
 
 	    "product-tmsopt-header-title": "MSP Opt",
-	    "product-msplog-header-text": "",
+	    "product-msplog-header-text": "MSP optimization of detours is a machine process of determining the most optimal route combinations according to the selected determination criteria. The user can choose between criteria such as cost efficiency, time, suitability (capacity, equipment) or a combination of this criteria. The calculation of the optimal route between thousands or tens of thousands of detour points in combination with the mentioned criteria far exceeds the capabilities of classical planning.",
 	    "product-tmsopt-info-title": "About MSP Opt",
-	    "product-tmsopt-info-text": " MSP optimization of detours is a machine process of determining the most optimal route combinations according to the selected determination criteria. The user can choose between criteria such as cost efficiency, time, suitability (capacity, equipment) or a combination of this criteria. The calculation of the optimal route between thousands or tens of thousands of detour points in combination with the mentioned criteria far exceeds the capabilities of classical planning. ",
 	    "product-tmsopt-info-list-text": "The MSP TMS software solves the entire set of business challenges, and in the Optimization segment, it focuses on algorithms for finding optimal distribution routes based on a multitude of parameters that can monitor individual deliveries:",
 	    "product-tmsopt-list-item1": "specific delivery vehicle equipment,",
 	    "product-tmsopt-list-item2": "ADR transport,",
