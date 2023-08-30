@@ -36,7 +36,9 @@
 	    "index-areas-construction": "Inspections and control",
 	    "index-areas-optimization": "Optimization",
 	    "index-news-title": "Relavent",
-	    "index-news-archive-link": "News archive",
+	    "index-news-archive-link": "News",
+            "index-media-archive-link": "Media",
+  	    "index-blog-archive-link": "Blog",
 	    "index-news-more-link": "More",
 	    "index-news-subscribe-title": "Stay informed",
 	    "index-news-subscribe-button": "Send",
@@ -503,7 +505,10 @@
 	    "company-news-header-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et venenatis est, et tristique lorem. Pellentesque vulputate felis ligula, nec feugiat dolor elementum vel.",
 	    "company-employ-header-title": "Employment",
 	    "company-employ-header-text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et venenatis est, et tristique lorem. Pellentesque vulputate felis ligula, nec feugiat dolor elementum vel.",
-	
+	    "company-blog-header-title":"Blog",
+ 	    "company-blog-header-text":"",
+ 	    "company-media-header-title":"Media",
+  	    "company-media-header-text":"",
 
 	    "publication_preview_author": "The author: ",
 	    "publication_preview_link": "Connection",
